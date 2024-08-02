@@ -16,5 +16,4 @@ set termguicolors
 colorscheme pablo
 autocmd BufCreate,BufNew,BufRead,BufEnter,BufAdd *.h set ft=c
 autocmd BufCreate,BufNew,BufRead,BufEnter,BufAdd *.s set ft=asm
-"autocmd BufCreate,BufNew,BufRead,BufEnter,BufAdd *.jc set ft=c
 nnoremap <C-n> :Ex<CR>
